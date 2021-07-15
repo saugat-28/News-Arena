@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">News Arena</string>
+    <string name="news_image">News Image</string>
 </resources>
